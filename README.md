@@ -1,4 +1,4 @@
-# Discord Hosting Botu
+# Discord Modarasyon botu
 
 Bu proje, Discord sunucunuz için moderasyon, log ve otomasyon özellikleri sunan bir Discord botudur.
 
@@ -38,3 +38,4 @@ Bu proje, Discord sunucunuz için moderasyon, log ve otomasyon özellikleri suna
 ## Lisans
 
 Bu projeyi GitHub'a yüklerken kendi lisansını ekleyebilirsin (örneğin MIT, ISC vb.).
+
